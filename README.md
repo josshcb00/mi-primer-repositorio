@@ -6,6 +6,6 @@
 
 texto repositorio
 
-** negritas **
+**negritas**
 
 *itálicas*
