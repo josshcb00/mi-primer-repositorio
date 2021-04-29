@@ -12,4 +12,4 @@ texto repositorio
 
 [Enlace a youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-(https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/img/ZiemannEtAlFig1.png)
+(![ZiemannEtAlFig1](https://user-images.githubusercontent.com/83330908/116495435-1eae5380-a860-11eb-8cf2-916c077a7f78.png)
